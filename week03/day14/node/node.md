@@ -4,17 +4,17 @@
 
 ### 1.1 创建子弹类型枚举
 
-![image-20200521094351869](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521094351869.png)
+![image-20200521094351869](../images/image-20200521094351869.png)
 
-![image-20200521094620332](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521094620332.png)
+![image-20200521094620332](../images/image-20200521094620332.png)
 
 ### 1.2 局部变量和默认值
 
-![image-20200521102419724](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521102419724.png)
+![image-20200521102419724](../images/image-20200521102419724.png)
 
 ### 1.3 停止时钟句柄
 
-![image-20200521112601190](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521112601190.png)
+![image-20200521112601190](../images/image-20200521112601190.png)
 
 
 
@@ -34,7 +34,7 @@
 
 2s-> 0
 
-![image-20200521135715277](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521135715277.png)
+![image-20200521135715277](../images/image-20200521135715277.png)
 
 给文字的transform Y 添加动画
 
@@ -42,28 +42,28 @@
 
 1s-> 30
 
-![image-20200521135503418](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521135503418.png)
+![image-20200521135503418](../images/image-20200521135503418.png)
 
 ### 3.1 监听动画播放结束事件
 
-![image-20200521133912684](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521133912684.png)
+![image-20200521133912684](../images/image-20200521133912684.png)
 
 
 
 ## 4 摄像机
 
-![image-20200521143616134](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521143616134.png)
+![image-20200521143616134](../images/image-20200521143616134.png)
 
 
 
-![image-20200521143646137](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521143646137.png)
+![image-20200521143646137](../images/image-20200521143646137.png)
 
 ### 4.1 狙击镜
 
-![image-20200521144157234](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521144157234.png)
+![image-20200521144157234](../images/image-20200521144157234.png)
 
 ### 4.2 屏幕尺寸
 
 由于屏幕不是正方形，但是狙击镜是正方形，因此会被缩放，所以不能直接用，得使用材质。
 
-![image-20200521153006045](C:\Users\JHxuhuan2\AppData\Roaming\Typora\typora-user-images\image-20200521153006045.png)
+![image-20200521153006045](../images/image-20200521153006045.png)
