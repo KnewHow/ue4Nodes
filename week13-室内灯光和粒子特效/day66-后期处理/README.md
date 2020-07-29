@@ -252,4 +252,4 @@ Offset 颜色偏移：
 
 ### 4.7 制作血色闪动
 
-![image-20200728165336866](./images/image-20200728165336866.png)
+![image-20200728165336866](C:\Users\JHxuhuan2\Desktop\image-20200728165336866.png)
